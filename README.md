@@ -13,3 +13,5 @@
 [The Four Agreements](https://github.com/GavinPalmer1984/the_four_agreements)
 
 [Propaganda](https://github.com/GavinPalmer1984/propaganda)
+
+[The Five Dysfunctions of a Team](https://github.com/GavinPalmer1984/the-five-dysfunctions-of-a-team)
